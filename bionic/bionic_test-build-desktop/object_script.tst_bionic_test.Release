@@ -1,0 +1,17 @@
+INPUT(
+./release\tst_bionic_test.o
+./release\server.o
+./release\search_virtual.o
+./release\search_used.o
+./release\search.o
+./release\parse.o
+./release\msn_chat.o
+./release\mainwindow.o
+./release\initial.o
+./release\exception.o
+./release\client.o
+./release\chat_used.o
+./release\moc_server.o
+./release\moc_mainwindow.o
+./release\moc_client.o
+);

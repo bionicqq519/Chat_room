@@ -1,0 +1,17 @@
+INPUT(
+./debug\tst_bionic_test.o
+./debug\server.o
+./debug\search_virtual.o
+./debug\search_used.o
+./debug\search.o
+./debug\parse.o
+./debug\msn_chat.o
+./debug\mainwindow.o
+./debug\initial.o
+./debug\exception.o
+./debug\client.o
+./debug\chat_used.o
+./debug\moc_server.o
+./debug\moc_mainwindow.o
+./debug\moc_client.o
+);
